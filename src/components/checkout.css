@@ -1,0 +1,7 @@
+.checkout_image{
+    height: 50vh;
+    margin-bottom: 10px;
+}
+.checkout{
+    display: flex;
+}

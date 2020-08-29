@@ -1,0 +1,21 @@
+
+.checkoutProduct{
+    display: flex;
+   }
+.checoutProduct_image{
+    object-fit: contain;
+
+}
+.checkoutProduct_info{
+    padding: 20px;
+    width: 50%;
+}
+.checkoutProduct_info>button{
+    background-color: orange;
+}
+.checkoutProduct_rating{
+    display: flex;
+}
+.checkoutProduct_title{
+    font-weight: bold;
+}
