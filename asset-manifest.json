@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/http//:Ali-codesweb.io/Amazon-clone/static/css/main.0e15b584.chunk.css",
-    "main.js": "/http//:Ali-codesweb.io/Amazon-clone/static/js/main.82a0b081.chunk.js",
-    "main.js.map": "/http//:Ali-codesweb.io/Amazon-clone/static/js/main.82a0b081.chunk.js.map",
-    "runtime-main.js": "/http//:Ali-codesweb.io/Amazon-clone/static/js/runtime-main.989a04fb.js",
-    "runtime-main.js.map": "/http//:Ali-codesweb.io/Amazon-clone/static/js/runtime-main.989a04fb.js.map",
-    "static/js/2.d4f05974.chunk.js": "/http//:Ali-codesweb.io/Amazon-clone/static/js/2.d4f05974.chunk.js",
-    "static/js/2.d4f05974.chunk.js.map": "/http//:Ali-codesweb.io/Amazon-clone/static/js/2.d4f05974.chunk.js.map",
-    "index.html": "/http//:Ali-codesweb.io/Amazon-clone/index.html",
-    "precache-manifest.bc74ca3540e0e248565c4b4facf2692d.js": "/http//:Ali-codesweb.io/Amazon-clone/precache-manifest.bc74ca3540e0e248565c4b4facf2692d.js",
-    "service-worker.js": "/http//:Ali-codesweb.io/Amazon-clone/service-worker.js",
-    "static/css/main.0e15b584.chunk.css.map": "/http//:Ali-codesweb.io/Amazon-clone/static/css/main.0e15b584.chunk.css.map",
-    "static/js/2.d4f05974.chunk.js.LICENSE.txt": "/http//:Ali-codesweb.io/Amazon-clone/static/js/2.d4f05974.chunk.js.LICENSE.txt"
+    "main.css": "/Amazon-clone/static/css/main.0e15b584.chunk.css",
+    "main.js": "/Amazon-clone/static/js/main.85410313.chunk.js",
+    "main.js.map": "/Amazon-clone/static/js/main.85410313.chunk.js.map",
+    "runtime-main.js": "/Amazon-clone/static/js/runtime-main.a692d69b.js",
+    "runtime-main.js.map": "/Amazon-clone/static/js/runtime-main.a692d69b.js.map",
+    "static/js/2.d4f05974.chunk.js": "/Amazon-clone/static/js/2.d4f05974.chunk.js",
+    "static/js/2.d4f05974.chunk.js.map": "/Amazon-clone/static/js/2.d4f05974.chunk.js.map",
+    "index.html": "/Amazon-clone/index.html",
+    "precache-manifest.e20d430b9fd36134b48e8fceb02267c9.js": "/Amazon-clone/precache-manifest.e20d430b9fd36134b48e8fceb02267c9.js",
+    "service-worker.js": "/Amazon-clone/service-worker.js",
+    "static/css/main.0e15b584.chunk.css.map": "/Amazon-clone/static/css/main.0e15b584.chunk.css.map",
+    "static/js/2.d4f05974.chunk.js.LICENSE.txt": "/Amazon-clone/static/js/2.d4f05974.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.989a04fb.js",
+    "static/js/runtime-main.a692d69b.js",
     "static/js/2.d4f05974.chunk.js",
     "static/css/main.0e15b584.chunk.css",
-    "static/js/main.82a0b081.chunk.js"
+    "static/js/main.85410313.chunk.js"
   ]
 }
